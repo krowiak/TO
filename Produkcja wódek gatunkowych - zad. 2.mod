@@ -18,7 +18,7 @@ solve; display zyskCalosc, x;
 data;
 set W := Sliwowica Zytnia;
 param koszt := Sliwowica 3 Zytnia 2;
-param czas := Sliwowica 4 Zytnia 4;
+param czas := Sliwowica 3 Zytnia 4;
 param cenaSprz := Sliwowica 6 Zytnia 5.40;
 param kapital := 4000;
 param czasMax := 20000;
